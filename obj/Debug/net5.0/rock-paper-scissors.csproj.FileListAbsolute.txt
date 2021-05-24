@@ -1,0 +1,16 @@
+C:\Users\brand\workspace\csharp\rock-paper-scissors\bin\Debug\net5.0\rock-paper-scissors.exe
+C:\Users\brand\workspace\csharp\rock-paper-scissors\bin\Debug\net5.0\rock-paper-scissors.deps.json
+C:\Users\brand\workspace\csharp\rock-paper-scissors\bin\Debug\net5.0\rock-paper-scissors.runtimeconfig.json
+C:\Users\brand\workspace\csharp\rock-paper-scissors\bin\Debug\net5.0\rock-paper-scissors.runtimeconfig.dev.json
+C:\Users\brand\workspace\csharp\rock-paper-scissors\bin\Debug\net5.0\rock-paper-scissors.dll
+C:\Users\brand\workspace\csharp\rock-paper-scissors\bin\Debug\net5.0\ref\rock-paper-scissors.dll
+C:\Users\brand\workspace\csharp\rock-paper-scissors\bin\Debug\net5.0\rock-paper-scissors.pdb
+C:\Users\brand\workspace\csharp\rock-paper-scissors\obj\Debug\net5.0\rock-paper-scissors.csprojAssemblyReference.cache
+C:\Users\brand\workspace\csharp\rock-paper-scissors\obj\Debug\net5.0\rock-paper-scissors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brand\workspace\csharp\rock-paper-scissors\obj\Debug\net5.0\rock-paper-scissors.AssemblyInfoInputs.cache
+C:\Users\brand\workspace\csharp\rock-paper-scissors\obj\Debug\net5.0\rock-paper-scissors.AssemblyInfo.cs
+C:\Users\brand\workspace\csharp\rock-paper-scissors\obj\Debug\net5.0\rock-paper-scissors.csproj.CoreCompileInputs.cache
+C:\Users\brand\workspace\csharp\rock-paper-scissors\obj\Debug\net5.0\rock-paper-scissors.dll
+C:\Users\brand\workspace\csharp\rock-paper-scissors\obj\Debug\net5.0\ref\rock-paper-scissors.dll
+C:\Users\brand\workspace\csharp\rock-paper-scissors\obj\Debug\net5.0\rock-paper-scissors.pdb
+C:\Users\brand\workspace\csharp\rock-paper-scissors\obj\Debug\net5.0\rock-paper-scissors.genruntimeconfig.cache
